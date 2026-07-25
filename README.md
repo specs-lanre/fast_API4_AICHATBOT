@@ -35,7 +35,8 @@ Live API
 ## Live Demo
 
 https://fastapi4aichatbot-production.up.railway.app
-
+Please look at the updated link here :
+https://fastapi4aichatbot-production-1d1f.up.railway.app/
 ## Skills Demonstrated
 
 - Backend Development
