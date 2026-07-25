@@ -4,7 +4,8 @@ app = FastAPI()
 
 @app.get("/")
 def home():
-    return {"message": "Hello World this is and upgrade version 002"}
+    return {"message": "Hello World this is and upgrade version 002"
+		     "status" : "Active"}
 
 @app.get("/search")
 def search(q: str = None):
